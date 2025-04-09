@@ -8,9 +8,7 @@
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
-<!-- Línea fina antes del título -->
-<hr style="border: 0; border-top: 1px solid #e1e4e8; margin-top: 40px; margin-bottom: 0;">
-
+<hr style="border: 0; border-top: 1px solid #d0d7de; margin-top: 40px; margin-bottom: 0;">
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
