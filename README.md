@@ -19,7 +19,7 @@
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
 <div style="border-top: 1px solid #000; margin: 20px 0;"></div>
-<hr>
+
 
 
 
