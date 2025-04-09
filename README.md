@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="20%">
+  <img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO)" width="20%">
 </p>
 
 
