@@ -1,4 +1,3 @@
-<div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">👋 ¡Hola! Soy Brayan Zambrano</h1>
 
 <p align="center">
@@ -155,4 +154,3 @@
   <em>Siempre con ganas de seguir aprendiendo, practicando y creciendo en este camino de la ingeniería.</em> 🚀
 </blockquote>
 
-</div>
