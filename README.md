@@ -84,24 +84,13 @@
 
 ---
 
----
-
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" />
-
-</p>
-
-<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 
 
