@@ -1,69 +1,75 @@
 <h1 align="center">¡Hola! Soy Brayan Zambrano 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ingeniero+en+formación;Apasionado+por+el+software+y+la+seguridad;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Ingeniero+en+formación;Apasionado+por+el+software+y+la+seguridad;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 Actualmente curso el **7° semestre de Ingeniería de Sistemas** en la Universidad Católica Luis Amigó.  
-💻 Apasionado por el desarrollo web, la automatización y la ciberseguridad.  
-🔐 Actualmente aprendiendo más sobre **hacking ético** usando Kali Linux.  
-🚀 Buscando desafíos reales donde pueda aplicar lo aprendido y seguir creciendo como profesional.
+🎓 Estudiante de **7° semestre de Ingeniería de Sistemas** en la Universidad Católica Luis Amigó.  
+💻 Enfocado en desarrollo web, automatización y ciberseguridad.  
+🧠 Apasionado por el aprendizaje continuo y la resolución de problemas reales.  
+🔐 Actualmente profundizando en **hacking ético** con Kali Linux.  
+🚀 Busco desafíos donde pueda aplicar conocimientos y seguir creciendo como ingeniero.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white)
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-
----
-
-## 🚧 Proyectos en los que he trabajado
-
-### 🧠 Corrector ortográfico inteligente
-Aplicación en Python con NLTK, SpellChecker y OpenAI que corrige errores en español en tiempo real mientras se escribe.
-
-### 🔐 Keylogger ético
-Proyecto educativo que simula la captura de entradas de teclado en un entorno controlado, con fines académicos y de concienciación en ciberseguridad.
-
-### 🧾 Sistema de control de implementos universitarios *(en desarrollo)*
-App web desarrollada en mi universidad para gestionar entradas y salidas de materiales educativos. Incluye roles como Administrador, Biblioteca, Dirección y Mercadeo.
+### Herramientas y Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🚧 Proyectos Destacados
+
+### 🧠 Corrector Ortográfico Inteligente
+> Aplicación en Python que utiliza NLTK, SpellChecker y OpenAI para corregir errores ortográficos en español en tiempo real.
+
+### 🔐 Keylogger Ético
+> Proyecto académico que simula la captura de pulsaciones de teclado con fines educativos, en un entorno controlado y ético.
+
+### 🧾 Sistema de Control de Implementos Universitarios *(en desarrollo)*
+> App web que permite la gestión de entradas y salidas de materiales educativos con control de roles: Biblioteca, Dirección, Mercadeo y más.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayan-santiago-zambrano-guzman-52348b250&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayan-santiago-zambrano-guzman-52348b250&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanZambrano07&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanZambrano07&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
 
 ## 📫 ¡Conectemos!
 
-📧 **Email:** brayansantiagozambranoguzman@gmail.com  
+📧 **Correo:** brayansantiagozambranoguzman@gmail.com  
 🔗 **LinkedIn:** [Brayan Santiago Zambrano Guzmán](https://www.linkedin.com/in/brayan-santiago-zambrano-guzman-52348b250/)
 
 ---
 
 > _"Siempre con ganas de seguir aprendiendo, practicando y creciendo en este camino de la ingeniería."_ 🚀
+
 
 
 
