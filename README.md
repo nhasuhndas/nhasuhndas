@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Brayan Zambrano 👋</h1>
+<h1 align="center">Brayan Zambrano | Ingeniero en formación</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=800&lines=Ingeniero+en+formación+💻;Apasionado+por+el+software+y+la+seguridad+🔐;Siempre+aprendiendo+y+creciendo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Enfocado+en+desarrollo+web+y+ciberseguridad;Experiencia+en+proyectos+reales+y+colaborativos;Comprometido+con+la+excelencia+y+el+aprendizaje+constante" alt="Typing SVG" />
 </p>
 
 
