@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
-
-
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
@@ -19,9 +17,7 @@
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
 
-
 <hr>
-
 
 
 
