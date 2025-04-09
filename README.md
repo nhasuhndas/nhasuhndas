@@ -90,17 +90,24 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" 
+          width="400" height="200" style="object-fit: cover;" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="400" />
+        <img 
+          src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" 
+          width="400" height="200" style="object-fit: cover;" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="400" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" 
+          width="400" height="200" style="object-fit: cover;" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
