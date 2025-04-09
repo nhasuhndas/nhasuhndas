@@ -86,21 +86,21 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   
-  <div style="width: 350px; height: 200px; overflow: hidden;">
+  <div style="width: 300px; height: 170px; overflow: hidden; border-radius: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" 
       style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
-  <div style="width: 350px; height: 200px; overflow: hidden;">
+  <div style="width: 300px; height: 170px; overflow: hidden; border-radius: 10px;">
     <img 
       src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" 
       style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
-  <div style="width: 350px; height: 200px; overflow: hidden;">
+  <div style="width: 300px; height: 170px; overflow: hidden; border-radius: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" 
       style="width: 100%; height: 100%; object-fit: cover;" />
