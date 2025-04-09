@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;Enamorado+de+la+Automatización+y+la+Ciberseguridad;Siempre+en+aprendizaje+constante+y+crecimiento+profesional" alt="Typing SVG" />
 </p>
 
+<hr>
 <p align="center">
-  <img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO)" width="20%">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47yaog6dy6t4ojlmcpnh4u8ab71a38cg02o848qgs4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="divider">
 </p>
+<hr>
 
 
 
