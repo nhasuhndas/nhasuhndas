@@ -8,7 +8,10 @@
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
-<hr style="height: 0.5px; border: none; background-color: #d0d7de; margin: 24px 0;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrayanZambranoDev/imgs/main/linea-fina.svg" width="90%" />
+</div>
+
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
