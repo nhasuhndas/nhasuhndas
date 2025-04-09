@@ -18,7 +18,7 @@
   💻 Estoy profundizando en <strong>desarrollo web avanzado</strong> y <strong>Python</strong>, con un enfoque técnico en automatización y pruebas de seguridad con <strong>Kali Linux</strong>.<br>
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
-
+<div style="border-top: 1px solid #000; margin: 20px 0;"></div>
 <hr>
 
 
