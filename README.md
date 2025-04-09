@@ -6,22 +6,15 @@
 
 ---
 
-<div align="center">
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
-  <h3>🎓 Actualmente curso el 7° semestre de Ingeniería de Sistemas.</h3>
-  <p style="max-width: 700px;">
-    Me apasiona todo lo relacionado con el <strong>desarrollo de software</strong>, la <strong>automatización</strong> y la <strong>seguridad informática</strong>.
-  </p>
+<p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
+  🎓 Actualmente curso el <strong>7° semestre de Ingeniería de Sistemas</strong> en la Universidad Católica Luis Amigó.<br>
+  💡 Apasionado por el <strong>desarrollo de software</strong>, la <strong>automatización</strong> y la <strong>ciberseguridad</strong>.<br>
+  💻 Estoy aprendiendo <strong>desarrollo web</strong>, <strong>Python</strong> y profundizando en el mundo del <strong>hacking ético</strong> con Kali Linux.<br>
+  🚀 Busco participar en <strong>proyectos reales</strong> donde pueda aplicar lo que sé y seguir creciendo como programador y futuro ingeniero.
+</p>
 
-  <h3>💻 En proceso de aprendizaje continuo</h3>
-  <p style="max-width: 700px;">
-    Estoy aprendiendo <strong>desarrollo web</strong>, <strong>Python</strong>, y profundizando en el mundo del <strong>hacking ético</strong> con <strong>Kali Linux</strong>.
-  </p>
-
-  <h3>🚀 Enfoque profesional</h3>
-  <p style="max-width: 700px;">
-    Me interesa trabajar en proyectos reales donde pueda <strong>aplicar mis conocimientos</strong> y seguir <strong>creciendo como programador</strong> y <strong>futuro ingeniero</strong>.
-  </p>
 
 </div>
 
