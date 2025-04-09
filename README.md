@@ -8,12 +8,13 @@
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
-<p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
-  🎓 Actualmente curso el <strong>7° semestre de Ingeniería de Sistemas</strong> en la Universidad Católica Luis Amigó.<br>
+<p align="center">
+  🎓 <strong>Actualmente curso el 7° semestre de Ingeniería de Sistemas</strong> en la Universidad Católica Luis Amigó.<br>
   💡 Apasionado por el <strong>desarrollo de software</strong>, la <strong>automatización</strong> y la <strong>ciberseguridad</strong>.<br>
   💻 Estoy profundizando en <strong>desarrollo web avanzado</strong> y <strong>Python</strong>, con un enfoque técnico en automatización y pruebas de seguridad con <strong>Kali Linux</strong>.<br>
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
+
 
 
 
