@@ -8,6 +8,9 @@
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
+<!-- Línea fina antes del título -->
+<hr style="border: 0; border-top: 1px solid #e1e4e8; margin-top: 40px; margin-bottom: 0;">
+
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
@@ -16,6 +19,7 @@
   💻 Estoy profundizando en <strong>desarrollo web avanzado</strong> y <strong>Python</strong>, con un enfoque técnico en automatización y pruebas de seguridad con <strong>Kali Linux</strong>.<br>
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
+
 
 <hr>
 
