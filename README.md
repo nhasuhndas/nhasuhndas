@@ -11,9 +11,10 @@
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
   🎓 Actualmente curso el <strong>7° semestre de Ingeniería de Sistemas</strong> en la Universidad Católica Luis Amigó.<br>
   💡 Apasionado por el <strong>desarrollo de software</strong>, la <strong>automatización</strong> y la <strong>ciberseguridad</strong>.<br>
-  💻 Estoy aprendiendo <strong>desarrollo web</strong>, <strong>Python</strong> y profundizando en el mundo del <strong>hacking ético</strong> con Kali Linux.<br>
-  🚀 Busco participar en <strong>proyectos reales</strong> donde pueda aplicar lo que sé y seguir creciendo como programador y futuro ingeniero.
+  💻 Estoy profundizando en <strong>desarrollo web avanzado</strong> y <strong>Python</strong>, con un enfoque técnico en automatización y pruebas de seguridad con <strong>Kali Linux</strong>.<br>
+  🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
+
 
 
 </div>
