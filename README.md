@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,255,255,0.4), rgba(0,0,0,0));">
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
