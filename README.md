@@ -86,31 +86,12 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<div align="center">
-  <style>
-    .github-stats-container {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap;
-      margin-top: 20px;
-    }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="320" />
+  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="320" />
+</p>
 
-    .github-stats-container img {
-      width: 320px;       /* misma anchura */
-      height: 200px;      /* misma altura */
-      object-fit: cover;  /* recorta suavemente */
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-    }
-  </style>
-
-  <div class="github-stats-container">
-    <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-</div>
 
 
 
