@@ -86,11 +86,16 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="400" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="400" />
+</div>
 
 
 
