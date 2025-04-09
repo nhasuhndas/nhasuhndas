@@ -9,6 +9,7 @@
 </p>
 
 <hr>
+
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
@@ -19,6 +20,7 @@
 </p>
 
 <hr>
+
 
 
 <div align="center">
