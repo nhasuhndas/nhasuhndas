@@ -17,9 +17,9 @@
 
 ---
 
-## 💡 Tecnologías y herramientas que manejo
-
 <div align="center">
+
+## 💡 Tecnologías y herramientas que manejo
 
 🛠️ Actualmente estoy aprendiendo <strong>Flutter</strong>, y tengo conocimientos básicos de <strong>Android Studio</strong>, <strong>Node.js</strong> y <strong>React</strong>.
 
@@ -76,6 +76,9 @@
     <td align="center">🔐 Nivel intermedio con Kali Linux, pruebas en entornos controlados</td>
   </tr>
 </table>
+
+</div>
+
 
 </div>
 
