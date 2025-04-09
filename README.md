@@ -86,19 +86,29 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="300">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="300">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="300">
-    </td>
-  </tr>
-</table>
+<style>
+  .github-stats-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .github-stats-container img {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+</style>
+
+<div class="github-stats-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true">
+  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight">
+</div>
+
 
 
 
