@@ -2,9 +2,12 @@
 
 <h1 align="center">¡Hola! Soy Brayan Zambrano 👋</h1>
 
+<h1 align="center">¡Hola! Soy Brayan Zambrano 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=500&lines=Ingeniero+en+formación;Apasionado+por+el+software+y+la+seguridad;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=800&lines=Ingeniero+en+formación+💻;Apasionado+por+el+software+y+la+seguridad+🔐;Siempre+aprendiendo+y+creciendo+🚀" alt="Typing SVG" />
 </p>
+
 
 </p>
 
