@@ -82,10 +82,6 @@
 
 
 
-
-
----
-
 <h2 align="center">📌 Algunos proyectos en los que he trabajado</h2>
 
 <ul>
