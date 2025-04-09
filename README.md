@@ -101,8 +101,7 @@
       <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="300">
     </td>
     <td>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="300">
-
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="300">
     </td>
   </tr>
 </table>
