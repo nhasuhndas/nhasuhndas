@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
-<hr>
+<div style="border-top: 1px solid #000; margin: 20px 0;"></div>
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
