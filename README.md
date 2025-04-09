@@ -35,6 +35,17 @@
 </td>
   </tr>
   <tr>
+    <td><strong>Frameworks / Plataformas</strong></td>
+    <td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+</td>
+  </tr>
+  <tr>
     <td><strong>Bases de datos</strong></td>
     <td>
 
@@ -61,6 +72,8 @@
     <td>🔐 Nivel intermedio con Kali Linux, pruebas en entornos controlados</td>
   </tr>
 </table>
+
+---
 
 ---
 
