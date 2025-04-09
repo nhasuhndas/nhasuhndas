@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Brayan Zambrano</h1>
-
+<hr style="border: none; height: 1px; background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,255,255,0.4), rgba(0,0,0,0));">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;Enamorado+de+la+Automatización+y+la+Ciberseguridad;Siempre+en+aprendizaje+constante+y+crecimiento+profesional" alt="Typing SVG" />
 </p>
@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,255,255,0.4), rgba(0,0,0,0));">
 
+<hr>
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
