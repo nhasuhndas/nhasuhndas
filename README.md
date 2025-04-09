@@ -17,44 +17,62 @@
 
 ---
 
-<h2 align="center">💡 Tecnologías y herramientas que manejo</h2>
+## 💡 Tecnologías y herramientas que manejo
 
-<table align="center">
+<table>
   <tr>
     <td><strong>Lenguajes</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+      ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+      ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+      ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks / Plataformas</strong></td>
+    <td>
+
+      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+      ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+      ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+      ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
     </td>
   </tr>
   <tr>
     <td><strong>Bases de datos</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
-      <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white">
+
+      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+      ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+      ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+      ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white)
+
     </td>
   </tr>
   <tr>
     <td><strong>Herramientas</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white">
+
+      ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+      ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+      ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
     </td>
   </tr>
   <tr>
     <td><strong>Ciberseguridad</strong></td>
-    <td>🔐 Nivel intermedio con Kali Linux, pruebas en entornos controlados.</td>
+    <td>🔐 Nivel intermedio con Kali Linux, pruebas en entornos controlados</td>
   </tr>
 </table>
+
 
 ---
 
