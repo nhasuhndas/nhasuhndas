@@ -86,11 +86,22 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="400" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
