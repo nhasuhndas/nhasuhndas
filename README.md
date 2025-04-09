@@ -6,11 +6,25 @@
 
 ---
 
-<p align="center">
-🎓 Actualmente curso el 7° semestre de Ingeniería de Sistemas. Me apasiona todo lo relacionado con el desarrollo de software, la automatización y la seguridad informática.<br>
-💻 Estoy aprendiendo desarrollo web, Python, y profundizando en el mundo del hacking ético con Kali Linux.<br>
-🚀 Me interesa mucho trabajar en proyectos reales donde pueda aplicar lo que sé y seguir creciendo como programador y futuro ingeniero.
-</p>
+<div align="center">
+
+  <h3>🎓 Actualmente curso el 7° semestre de Ingeniería de Sistemas.</h3>
+  <p style="max-width: 700px;">
+    Me apasiona todo lo relacionado con el <strong>desarrollo de software</strong>, la <strong>automatización</strong> y la <strong>seguridad informática</strong>.
+  </p>
+
+  <h3>💻 En proceso de aprendizaje continuo</h3>
+  <p style="max-width: 700px;">
+    Estoy aprendiendo <strong>desarrollo web</strong>, <strong>Python</strong>, y profundizando en el mundo del <strong>hacking ético</strong> con <strong>Kali Linux</strong>.
+  </p>
+
+  <h3>🚀 Enfoque profesional</h3>
+  <p style="max-width: 700px;">
+    Me interesa trabajar en proyectos reales donde pueda <strong>aplicar mis conocimientos</strong> y seguir <strong>creciendo como programador</strong> y <strong>futuro ingeniero</strong>.
+  </p>
+
+</div>
+
 
 ---
 
