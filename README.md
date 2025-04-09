@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80%">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="20%">
 </p>
+
 
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
