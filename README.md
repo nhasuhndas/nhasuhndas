@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;Enamorado+de+la+Automatización+y+la+Ciberseguridad;Siempre+en+aprendizaje+constante+y+crecimiento+profesional" alt="Typing SVG" />
 </p>
 
-<hr>
 <p align="center">
-  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" alt="animated divider">
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
-<hr>
-
-
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
@@ -21,7 +17,8 @@
   🚀 Me motiva trabajar en <strong>proyectos reales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador y futuro ingeniero.
 </p>
 
----
+<hr>
+
 
 <div align="center">
 
